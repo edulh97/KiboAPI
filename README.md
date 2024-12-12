@@ -1,6 +1,16 @@
 
 ### Un poco de info
 
+- 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.0)
+
 - **controller**: Contiene las clases responsables de manejar las solicitudes HTTP. Incluye controladores para manejar las operaciones sobre usuarios y teléfonos de usuarios.
   - `ProductosController.java`: Controlador para la gestión de productos.
   - `TelefonosUsuarioController.java`: Controlador para la gestión de teléfonos de usuarios.
@@ -23,3 +33,5 @@
 
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
+
+2. Ejecuta los archivos .sql adjuntos en la carpeta DB los que puedes clonar las tablas de la base de datos ya con registros. 
